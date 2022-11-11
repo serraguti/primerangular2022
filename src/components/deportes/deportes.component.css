@@ -1,0 +1,11 @@
+.estilopar{
+    background-color: blue;
+    color:white;
+    font-weight: bold;
+}
+
+.estiloimpar{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
